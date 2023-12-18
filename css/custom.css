@@ -1,0 +1,12 @@
+.avg-unitcost{
+    color: blue;
+    border: blue;
+}
+.avg-quantity{
+    color: green;
+    border: green;
+}
+.total{
+    color: red;
+    border: red;
+}
